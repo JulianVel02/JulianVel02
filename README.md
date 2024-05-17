@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/hann_koi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hann_koi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/matias-julian-velazquez-95b567309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias julian velazquez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/julianvel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="julianvel02" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/359017/julianvel02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="julianvel02" height="30" width="40" /></a>
 <a href="https://instagram.com/kad.vzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kad.vzzz" height="30" width="40" /></a>
 </p>
 
