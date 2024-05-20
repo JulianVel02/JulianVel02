@@ -14,8 +14,10 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JulianVel02&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
-![JulianVel02's Stats](https://github-readme-stats.vercel.app/api?username=JulianVel02&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![JulianVel02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianVel02&theme=merko&hide_border=true)
+![JulianVel02's Stats](https://github-readme-stats.vercel.app/api?username=JulianVel02&theme=merko&show_icons=true&hide_border=true&count_private=true)<br/>
+
+![JulianVel02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JulianVel02&theme=merko&hide_border=true)<br/>
+
 ![JulianVel02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianVel02&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=JulianVel02&theme=merko&hide_border=false)<br/>
